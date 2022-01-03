@@ -7,6 +7,7 @@ public class LoginPageTest {
 	}
 	
 	String p ="Shweta";
-	
-
+	String d ="NY";
+	String country ="usa";
+	String conti ="usa";
 }
