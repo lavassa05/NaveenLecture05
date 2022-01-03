@@ -5,5 +5,8 @@ public class LoginPageTest {
 		System.out.println("test 1 - Login Page");
 		
 	}
+	
+	String p ="Shweta";
+	
 
 }
